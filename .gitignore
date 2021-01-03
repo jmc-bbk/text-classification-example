@@ -3,3 +3,6 @@
 
 # Ignore pkl files.
 *.pkl
+
+# Ignore venv files.
+venv
