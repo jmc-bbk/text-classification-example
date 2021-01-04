@@ -6,3 +6,9 @@
 
 # Ignore venv files.
 venv
+
+# Ignore cached files.
+__pycache__
+
+# Ignore locally trained GCP model.
+local-training-output
